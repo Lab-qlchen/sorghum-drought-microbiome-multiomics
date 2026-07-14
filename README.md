@@ -1,2 +1,3 @@
-# amino-acid-partitioned-plant-microbiome-strategies-sustain-crop-performance-under-drought
-This project investigates how sorghum coordinates metabolic regulation and microbiome assembly to enhance drought resilience, highlighting stage-specific root exudate shifts, key metabolites (L-proline, pipecolic acid), and a synthetic microbial community that significantly improves plant growth under drought.
+# Multi-omics analysis of sorghum–microbiome interactions under drought
+
+This repository contains source data and analysis scripts for a multi-omics study of sorghum–microbiome interactions under drought. The study integrates field experiments, microbiome profiling, root exudate metabolomics, Raman–D₂O analysis, bacterial isolation and validation, synthetic community experiments, transcriptomics and metagenomics.
